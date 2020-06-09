@@ -19,42 +19,56 @@ Secure a responsible and challenging career opportunity to fully optimize my tra
 **Computer Skills**
 
 Typing Skills
+
 Microsoft Office, Microsoft Excel, Microsoft PowerPoint
+
 Working knowledge in C, C++, JAVA, Python, HTML
 
 **Achievements**
 
 - Secured a distinction in my B. Tech programme.
+
 - Received a few prizes and certificates from the college during B. Tech programme and SSC programme.
+
 - Selected for state level competition of Wordsworth, AP 2011
 
 **Area of Interests**
 
 Robotics
+
 Artificial Intelligence
+
 Internet of Things
 
 **Strengths**
 
 Urge to learn new things
+
 Perseverance
+
 Adaptability
 
 **Personal Profile**
 
 Date of Birth : 02-09-2000
+
 Languages Known : English, Telugu, and Hindi
+
 Address for Communication : Avilala circle, Thirchanoor bypass, Surabhi Gardens, flat No.520, Tirupati
 
 **Hobbies**
 
 Reading Novels
+
 Mouse Potato
+
 Watching Web Series
 
 **Declaration**
 
 I hereby declare that the above information is true to the best of my knowledge and belief.
+
+<hr>
 
 Tirupati
 
