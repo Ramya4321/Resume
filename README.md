@@ -18,19 +18,12 @@ Secure a responsible and challenging career opportunity to fully optimize my tra
 
 **Computer Skills**
 
+Working knowledge in C, C++, JAVA, Python, HTML, Web Design Basic
+
 Typing Skills
 
 Microsoft Office, Microsoft Excel, Microsoft PowerPoint
 
-Working knowledge in C, C++, JAVA, Python, HTML
-
-**Achievements**
-
-- Secured a distinction in my B. Tech programme.
-
-- Received a few prizes and certificates from the college during B. Tech programme and SSC programme.
-
-- Selected for state level competition of Wordsworth, AP 2011
 
 **Area of Interests**
 
@@ -47,6 +40,8 @@ Urge to learn new things
 Perseverance
 
 Adaptability
+
+Diligent
 
 **Personal Profile**
 
