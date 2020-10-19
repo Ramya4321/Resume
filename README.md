@@ -51,6 +51,11 @@ Secure a responsible and challenging career opportunity to fully optimize my tra
 
 	- Achieved 70% of passing score in National level E-Quiz on "Quiz Buckers in Computer Science" On 03-06-2020 organised by Sree Vidyanikethan Engineering College under ISTE student partner
 		Achieved 74% passing score in python quiz held on 05/06/2020 by Satyabhama institute of science and technology
+		
+### Achievements
+	- Achieved 70% of passing score in National level E-Quiz on “Quiz Buckers in Computer Science” On 03-06-2020 organised by Sree Vidyanikethan Engineering College under ISTE student partner
+	- Achieved 74% passing score in python quiz held on 05/06/2020 by Satyabhama institute of science and technology 
+
 
 ### Portfolio
 **GitHub profile **:[https://github.com/Ramya4321/](https://github.com/Ramya4321/)
