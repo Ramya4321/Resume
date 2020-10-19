@@ -19,7 +19,9 @@ Secure a responsible and challenging career opportunity to fully optimize my tra
 ### Technical skills
 
 **Programming languages**: C, C++, Data Structures, JAVA, Python, Web programming such as HTML, CSS, JavaScript frameworks
+
 **Area of Interests**: Robotics, Machine Learning, Artificial Intelligence, Internet of Things
+
 **Other skills**: Android studio, Typing skills
 
 ### Projects
