@@ -62,7 +62,7 @@ Secure a responsible and challenging career opportunity to fully optimize my tra
 ### Portfolio
 **GitHub profile **:[https://github.com/Ramya4321/](https://github.com/Ramya4321/)
 
-**Transcripts** : [https://github.com/Ramya4321/certificates](https://github.com/Ramya4321/certificates)
+**Transcripts** : [https://github.com/Ramya4321/Transcripts](https://github.com/Ramya4321/Transcripts)
 
 **LinkedIn profile**: [https://www.linkedin.com/in/rayapati-ramya-a19025196/](https://www.linkedin.com/in/rayapati-ramya-a19025196/)
 
