@@ -34,10 +34,11 @@ Secure a responsible and challenging career opportunity to fully optimize my tra
 
 **E-Learning Courses:**
 
-	- Architecting Smart IoT devices(coursera)
-	- Introduction to AI(coursera)
-	- Machine Learning(Coursera)
-	- RPA starter (UI path)
+	- "Machine Learning" by University of Washington in coursera, Completed on October 6, 2020
+	- "Architecting smart IoT devices" by EIT digital in coursera, Completed on October 9 2020
+	- "Introduction to Artificial intelligence" by IBM in coursera, Completed on October 9 2020
+	- “Robotic Process Automation(RPA)” in UiPath, Completed on December 18, 2019
+	- Currently doing a course on “Artificial Intelligence search methods for problem solving.” In NPTEL
 
 **Workshops:**
 
@@ -48,19 +49,15 @@ Secure a responsible and challenging career opportunity to fully optimize my tra
 **Coding competitions:**
 
 	- Successfully completed C test organized at Sree Vidyanikethan Engineering College on August 1 2019
-		Participated in "Game of Codes" challenge held on 27th September,2020 by Coding Bridge BVRIT in association with CodeChef
-		Achievements
+	- Participated in "Game of Codes" challenge held on 27th September,2020 by Coding Bridge BVRIT in association with CodeChef
 
-	- Achieved 70% of passing score in National level E-Quiz on "Quiz Buckers in Computer Science" On 03-06-2020 organised by Sree Vidyanikethan Engineering College under ISTE student partner
-		Achieved 74% passing score in python quiz held on 05/06/2020 by Satyabhama institute of science and technology
-		
 ### Achievements
 	- Achieved 70% of passing score in National level E-Quiz on “Quiz Buckers in Computer Science” On 03-06-2020 organised by Sree Vidyanikethan Engineering College under ISTE student partner
 	- Achieved 74% passing score in python quiz held on 05/06/2020 by Satyabhama institute of science and technology 
 
 
 ### Portfolio
-**GitHub profile **:[https://github.com/Ramya4321/](https://github.com/Ramya4321/)
+**GitHub profile**:[https://github.com/Ramya4321/](https://github.com/Ramya4321/)
 
 **Transcripts** : [https://github.com/Ramya4321/Transcripts](https://github.com/Ramya4321/Transcripts)
 
@@ -84,9 +81,9 @@ Diligent
 
 ### Personal Profile
 
-Date of Birth : 02-09-2000
+Date of Birth 	       	  : 02-09-2000
 
-Languages Known : English, Telugu, and Hindi
+Languages Known 	  : English, Telugu, and Hindi
 
 Address for Communication : Avilala circle, Thirchanoor bypass, Surabhi Gardens, flat No.520, Tirupati, India
 
@@ -106,6 +103,6 @@ I hereby declare that the above information is true to the best of my knowledge 
 
 Tirupati
 
-9 october 2020
+24 october 2020
 
 (R. RAMYA SREE)
