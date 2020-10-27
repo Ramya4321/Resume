@@ -2,8 +2,6 @@ R Ramya Sree
 
 [rayaratiramya@gmail.com](mailto:rayaratiramya@gmail.com)
 
-![](RackMultipart20200604-4-16sq6cq_html_8c34ca5fc6543282.gif)+91 8179926385
-
 ### Career Objective
 
 Secure a responsible and challenging career opportunity to fully optimize my training and skills, while making a significant contribution to the success of the organization.
